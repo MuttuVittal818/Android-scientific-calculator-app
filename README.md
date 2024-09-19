@@ -17,7 +17,7 @@
 # Output Results:
 
 <div align="left">
-  <img width="156" src="https://github.com/Ruhul12/Scientific-Calculator/blob/main/img/design-3.png">
+  <img width="156" src="https://github.com/MuttuVittal818/Android-scientific-calculator-app/blob/main/App%20Interface/Interface.png">
 </div>
 
 
